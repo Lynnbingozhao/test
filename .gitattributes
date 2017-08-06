@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
++ this is a test file
++ this is two lines
 * text=auto
